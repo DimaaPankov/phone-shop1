@@ -1,3 +1,5 @@
 package ru.skillbranch.phone_shop
 
-lateinit var MAIN:MainActivity
+import ru.skillbranch.phone_shop.presentation.screens.MainActivity
+
+lateinit var MAIN: MainActivity

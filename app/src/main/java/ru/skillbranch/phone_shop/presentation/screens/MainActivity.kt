@@ -1,9 +1,11 @@
-package ru.skillbranch.phone_shop
+package ru.skillbranch.phone_shop.presentation.screens
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.NavController
 import androidx.navigation.Navigation
+import ru.skillbranch.phone_shop.MAIN
+import ru.skillbranch.phone_shop.R
 
 class MainActivity : AppCompatActivity() {
     lateinit var navController: NavController

@@ -1,4 +1,4 @@
-package ru.skillbranch.phone_shop.overview
+package ru.skillbranch.phone_shop.presentation.screens
 
 import android.os.Bundle
 import android.os.CountDownTimer

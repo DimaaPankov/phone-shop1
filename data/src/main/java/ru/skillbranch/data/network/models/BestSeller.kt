@@ -1,4 +1,4 @@
-package ru.skillbranch.phone_shop.network
+package ru.skillbranch.phone_shop.entietis
 
 data class BestSeller(
     val discount_price: Int,

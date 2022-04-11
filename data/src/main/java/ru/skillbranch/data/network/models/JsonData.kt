@@ -1,4 +1,4 @@
-package ru.skillbranch.phone_shop.network
+package ru.skillbranch.phone_shop.entietis
 
 import com.google.gson.annotations.SerializedName
 
